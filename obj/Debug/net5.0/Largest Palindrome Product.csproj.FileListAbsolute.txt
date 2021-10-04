@@ -1,0 +1,15 @@
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/obj/Debug/net5.0/Largest Palindrome Product.csproj.AssemblyReference.cache
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/obj/Debug/net5.0/Largest Palindrome Product.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/obj/Debug/net5.0/Largest Palindrome Product.AssemblyInfoInputs.cache
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/obj/Debug/net5.0/Largest Palindrome Product.AssemblyInfo.cs
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/obj/Debug/net5.0/Largest Palindrome Product.csproj.CoreCompileInputs.cache
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/bin/Debug/net5.0/Largest Palindrome Product.deps.json
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/bin/Debug/net5.0/Largest Palindrome Product.runtimeconfig.json
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/bin/Debug/net5.0/Largest Palindrome Product.runtimeconfig.dev.json
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/bin/Debug/net5.0/Largest Palindrome Product.dll
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/bin/Debug/net5.0/ref/Largest Palindrome Product.dll
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/bin/Debug/net5.0/Largest Palindrome Product.pdb
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/obj/Debug/net5.0/Largest Palindrome Product.dll
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/obj/Debug/net5.0/ref/Largest Palindrome Product.dll
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/obj/Debug/net5.0/Largest Palindrome Product.pdb
+/Users/brandonkuon/Documents/C# Folder/Largest Palindrome Product/obj/Debug/net5.0/Largest Palindrome Product.genruntimeconfig.cache
